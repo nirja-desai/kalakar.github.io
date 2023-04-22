@@ -1,12 +1,5 @@
 {
   "type": "FeatureCollection",
-  "name": "Baithakji_mapbox",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:EPSG::4008"
-    }
-  },
   "features": [
     {
       "type": "Feature",
