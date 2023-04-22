@@ -1,7 +1,5 @@
 {
 "type": "FeatureCollection",
-// "name": "Baithakji_mapbox",
-// "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4008" } },
 "features": [
 { "type": "Feature", "properties": { "name": "Govindghat", "lat": 27.4402643, "long": 77.7131976, "title": "Govindghat", "description": "ta ta ta" }, "geometry": { "type": "Point", "coordinates": [ 77.7131976, 27.4402643 ] } },
 { "type": "Feature", "properties": { "name": "Badi Bhitar Baithak", "lat": 27.4367551, "long": 77.721315, "title": "Badi Bhitar Baithak", "description": "ba bababa" }, "geometry": { "type": "Point", "coordinates": [ 77.721315, 27.4367551 ] } },
