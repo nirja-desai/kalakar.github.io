@@ -10,7 +10,7 @@
           "title": "Govindghat",
           "description": "At Govinda Lake, Shri Mahaprabhu Vallabhacharya spent three days sharing stories about Shri Krishna's divine actions. Krishnadas Meghan prayed to the guru to have a divine vision of the realm within the Govardhan Hill, but Shri Mahaprabhujji did not respond to his request.",
           "image": "govindkund_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -29,7 +29,7 @@
           "title": "Badi Bhitar Baithak",
           "description": "Shri Mahaprabhuji's largest seat at Gokul was where he ate and gave discourses. Shri Krishna Chaitanya's disciples wanted to serve Shri Nathji, but he told them to worship Him by chanting His names for liberation. Only Shri Mahaprabhu Vallabhacharya had the right to His personal services.",
           "image": "badibaithakgokul_baithkji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -67,7 +67,7 @@
           "title": "",
           "description": "Gopaldas, a disciple of Shri Krishna Chaitanya, wished for a Deity he could adorn with clothes and jewels, but was only given a shaligram. After approaching Shri Mahaprabhuji in Vrindavan, he was told that the shaligram would transform into a svarupa of Shri Krishna if he worshipped it with pure sentiment. The next morning, Gopaldas' shaligram transformed into Radha Raman. Shri Mahaprabhuji also told Gopaldas that in his next birth, he would enter the path of Grace. Gopaldas later became known as Gopal Naga, a renowned devotee.” ",
           "image": "vrindavan_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -86,7 +86,7 @@
           "title": "",
           "description": "Shri Mahaprabhuji showed Prabhudas that the greatness of Vrindavan is concealed to some and visible to others. Gopaldas desired a Deity he could adorn and asked for Shri Krishna Chaitanya's help, who entrusted him with a shaligram. After having a dream, Gopaldas asked Shri Mahaprabhuji if he could have a svarupa of Lord Krishna. Shri Mahaprabhuji said that the shaligram would be transformed if his sentiment was pure. The shaligram became Radha Raman, and Gopaldas became a disciple of the path of Grace in his next birth, known as Gopal Naga.",
           "image": "mathuraji_baithakji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -124,7 +124,7 @@
           "title": "",
           "description": "Shri Mahaprabhuji visited Talvana lake but did not give a discourse since there was no Lord Krishna deity there. At Kamodvan, he explained that the place was named after the Kamodini trees and made two lotus ponds. He granted divine vision of the lotuses and trees to his disciples but had to take it away to prevent them from being too absorbed. He then went to Bahulavan, bathed in Sanatanu and Gandharva lakes, and rested under a tree by Krishna lake.",
           "image": "kamodvam_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -219,7 +219,7 @@
           "title": "",
           "description": "At Anyor, Shri Mahaprabhuji had His divine meeting with Shri Nathji. There, Shri Mahaprabhuji established a small temple for Shri Nathji (Lord Krishna) and alos gave discourse on the Shrimad Bhagavatam.",
           "image": "pande_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -276,7 +276,7 @@
           "title": "",
           "description": "On top of the Giriraj Mountain, on the balcony of Shri Nathji’s temple, Shri Mahaprabhuji used to sit when His worship of Shri Nathji was concluded. Onc when the Lord’s offering was late he heard Shri Radha’s anklet bells. Shri Mahaprabhu Vallabhcharya turned and saw Her coming with a tray in order to receive the preparations which would be offered to Her Lord. Shri Mahaprabhuji later said to Dammala, we should never be late in making the offering to the Lord, because it troubles the Divine Couple.",
           "image": "girirajji_baithkaji.jpg",
-          "gupt": "true"
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -504,7 +504,7 @@
           "title": "",
           "description": "Here, Shri Mahaprabhu Vallabhacharya stayed at the house of Purushttamdas and celebrated Lord Krishna’s appearance day. During the festivities, Krishna’s parents and friends all appeared. Everyond present had this divine vision and Shiva joined in the celebrations.",
           "image": "purshotam_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -523,7 +523,7 @@
           "title": "",
           "description": "At the Hanuman Ghat by the Ganges river, Shri Mahaprabhu Vallabhachrya stayed after he took sanyas, the highest order of renunciation. He live for one month on a stone completely silent without eating or drinking anything. There, Shri Mahaprabhuji wrote a work about true renunciation which cleared the doubts of many misled people who had taken an outer renunciation neglecting the true inner one. On the day of Rath Yatra, Shri Mahaprabhuji entered into the Ganges river up to his waist and while singing the glorious Gopi Gita, ascended to the divine abode in a stream of light before thousands of people. Everyone who considered him to be only a ordinary man, after seeing his divine departure realized his divinity.",
           "image": "hanumanghat_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -675,7 +675,7 @@
           "title": "",
           "description": "At panchvati at the Nasika Tap forest Shri Mahaprabhu Vallabhachrya said to Damala, “Lord Rama stayed in this forest and this is where Sita was stolen away by Ravana. I will make a Bhagavata saptah here and establish the path of Dvotion.”",
           "image": "tapovan_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
@@ -694,7 +694,7 @@
           "title": "",
           "description": "Mahaprabhu Vallabhacharya met Lord Nirsingh while sitting under a tree, and the Lord asked him to bless his temple. Mahaprabhuji offered bananas in sugar and rose water to Lord Nirsingh, who appreciated the offering. They then went to the temple, and after Mahaprabhuji offered the bananas, Lord Nirsingh gave half to Mahaprabhuji, which he refused, and the Lord gave the remaining to him. Mahaprabhuji then spoke the Shrimad Bhagavatam, and Lord Nirsingh came daily to listen, and many souls were uplifted by the guru's teachings.",
           "image": "pannanri_baithkaji.jpg",
-          "gupt": "true"
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -713,7 +713,7 @@
           "title": "",
           "description": "After performing his father’s last rites, he told his mother to proceed with his brother to his uncle’s house at Vidhyanagar while he stayed for 15 days under a tree near the temple. There he gave a seven day discourse on the Shrimad Bhagavatam and Lord Lakshman Balaji came to participate. After the discourse was completed Shri Mahaprabhuji went to the temple and made the Lord a food offering and perform His divine worship. The Lord appeared to Shri Vallabhacharya three other times, but these meeting have not been recorded.",
           "image": "laxmibala_baithkaji.jpg",
-          "gupt": "false"
+          "gupt": false
         },
         "geometry": {
           "type": "Point",
