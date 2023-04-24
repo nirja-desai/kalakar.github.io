@@ -12,5 +12,6 @@ for feature in data['features']:
     feature['properties']['image'] = f"{filename}.jpg"
 
 # Save the modified GeoJSON file
+json_bethak = (json.dumps(data, indent=2, default=str, ensure_ascii=True))
 with open('geo_json_final.geojson', 'w') as f:
-    json.dump(data, f)
+    json.dump(json_bethak, f)
