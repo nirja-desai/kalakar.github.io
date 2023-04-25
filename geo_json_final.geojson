@@ -325,7 +325,7 @@
         }
       },
       {
-        "type": "Trilokbhan",
+        "type": "Feature",
         "properties": {
           "name": "Trilokbhan",
           "lat": 13.629896251925821,
@@ -1452,7 +1452,7 @@
           "lat": 29.951791,
           "long": 78.1642474,
           "title": "",
-          "description": "",
+          "description": "Shri Mahaprabhu Vallabharya made his seat at Haridwara during the Kumbha Mela in 1510 AD. He used his powers of illusion (over maya) to ensure over one hundred thousand pilgrims would all bathe in the Ganges river at the proper auspicious time so they would receive the full benefits of the bath. Many who witnessed this event became followers of Shri Mahaprabhuji.",
           "image": "haridwar_baithkji.jpg",
           "gupt": true
         },
