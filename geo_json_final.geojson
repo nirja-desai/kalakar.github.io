@@ -29,7 +29,7 @@
           "title": "Badi Bhitar Baithak",
           "description": "Shri Mahaprabhuji's largest seat at Gokul was where he ate and gave discourses. Shri Krishna Chaitanya's disciples wanted to serve Shri Nathji, but he told them to worship Him by chanting His names for liberation. Only Shri Mahaprabhu Vallabhacharya had the right to His personal services.",
           "image": "badibaithakgokul_baithkji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -55,6 +55,25 @@
           "coordinates": [
             77.721315,
             27.4367551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mandarachal",
+          "lat": 30.227047,
+          "long": 78.796970,
+          "title": "",
+          "description": "Location guessed by creators. On the summit of the Mudrachal mountain Shri Mahaprabhuji made his seat under a shady tree. After visiting Lord Mudrachal’s temple he began his saptah and Lord Mudrachal came to listen. Later, Shri Mahaprabhuji went to Lord Madhusudana’s temple and made the Lord’s worship. Shri Krishna then told Shri Mahaprabhuji that he had appeared on the Govardhan Hill and that he should quickly come to the sacred area of Braja and extablish His worship.",
+          "image": "mandrachal_baithkji.jpg",
+          "gupt": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.227047,
+            78.796970
           ]
         }
       },
@@ -306,6 +325,25 @@
         }
       },
       {
+        "type": "Trilokbhan",
+        "properties": {
+          "name": "Trilokbhan",
+          "lat": 13.629896251925821,
+          "long": 79.41870655556858,
+          "title": "",
+          "description": "Location guessed by creators. Here, Shri Mahaprabhu Vallabhacharya halted in a lovely spot. Many Mayavadians lived there who worshipped a goddess. When they heard about Shri Mahaprabhuji’s arrival, they came there to debate with him. Within a short while, Shri Mahaprabhuji revealed to them the true meaning of the scriptures and the path of Grace and they became his disciples. Later, Lord Trilokbhanji appeared to Shri Mahaprabhuji and the guru offered Him some fruits and made the Lord’s ornamentation. Shri Mahaprabhuji stayed there for a few days before proceeding to Totadri Mountain.",
+          "image": "trilokbhanji_baithkji.jpg",
+          "gupt": true
+        },  
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.6298962,
+            79.4187065
+          ]
+        }
+      },
+      {
         "type": "Feature",
         "properties": {
           "name": "Ghewarvan",
@@ -315,7 +353,7 @@
           "description": " Here, Shri Mahaprabhu Vallabhacharya stayed by a lake and held a ‘Bhagavata saptah’. One day he went on a walk to see the Gahavarvan forest and saw a dead boa constrictor with many ants biting it saying, “why did you ruin our lives|”  After bathing in piri and Prem lake Shri Mahaprabhu Vallabhacharya and his disciples proceeded towards Sanket. ",
           "image": "gheravan_baithkaji.jpg",
           "gupt": false
-        },
+        },  
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -390,7 +428,7 @@
           "title": "",
           "description": "Mahaprabhu Vallabhacharya traveled to various places, held a reading of the Shrimad Bhagavatam in Bhandirvan, and was visited by Byastirth, a religious head of the Madhava Sampradaya. Byastirth offered him 100,00 rupees and his religious position but was beaten by the Lord's servants for his prideful attitude. They advised him to seek the Lord's protection instead.",
           "image": "bhandarvan_baithkaji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -466,7 +504,7 @@
           "title": "",
           "description": "Mahaprabhu Vallabhacharya held a discourse on the Shrimad Bhagavatam and Ramayan under a tree near the Kantanath mountain. Hanuman, the monkey god, came to hear the discourse standing on one foot, but Mahaprabhuji asked him to sit. Later, Hanuman doubted Shri Rama's statement about being governed by law, but Shri Mahaprabhuji proved his words true. Hanuman saw Lord Ram in Shri Mahaprabhuji when he presented him with food, and Lord Ram affirmed Mahaprabhu Vallabhacharya's superiority.",
           "image": "ayodhya_baithkaji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -485,7 +523,7 @@
           "title": "",
           "description": "Here by the Gomati lake, under a tree, Shri Mahaprabhu Vallabhacharya spoke the Bhagavatam for seven days. Once while he was making his to their sacrifice. After beginning the sacred rite, they all sat down and offered worship to him and requested to know the true import of sacrifice. For nine hours Shri Mahabrabhuji unlightened then before returing to his lamp many other events happened here, but this was the main once. ",
           "image": "naimisharnya_baithakji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -580,7 +618,7 @@
           "title": "",
           "description": "In the dense forest of Kapilban at Kapilashram, Shri Mahaprabhuji spent six months finishing the third canto of his Subodhani. At that isolate place, inhabited by ferocious animals, Mahaprabhuji was accompanied by only five disciples.",
           "image": "gangasagar_baithkaji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -599,7 +637,7 @@
           "title": "",
           "description": "For the Lord’s graceful glance came the divine souls and from his glance of maya came te demonical souls. Shri Mahaprabhuji appeard to uplift divine souls. That is the reason for his appearance. Shri Vitthalnathji said that if Shri Mahaprabhuji did not appear, “The creation of the divine souls would pass wasted.” He also revealed that, “Fro th eupliftment of divine souls, Shri Mahaprabhu Vallabhacharya appeard upon the earth.”  In the south of India, in the town of Kankarvad appeared Shri Vallabhacharya’s forefather Narayanbhatt who was an incarnation of the Vedas and knew th esacred texts by heart. He started to perform the sacred soma. Sacrifice and complete 32 such rites in the course of his lifetime. When they were completed a celestial voice came from the sacrificial pit fire and said, “Narayana Bhatt, you are blessed; the primal Godhead has accepted your offerings. Within your family the Lord will take birth and from the sacrificial fires my Deity will appear.”",
           "image": "champaranya_pragatya_baithakji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -732,7 +770,7 @@
           "title": "",
           "description": " At Shri Rangji under a tree by the banks of the Kaveri river Shri Mahaprabhu Vallabhacharya stayed. There, Lord Rangji came from His eternal abode to see Shri Mahaprabhuji. And asked the guru about the divine appearance of Shri Nathji atop the Govardhan hill. Shri Mahaprabhuji later went to Lord Rangji’s temple where the head priest upon seeing Shri Mahaprabhuji had a vision and later took initiation form the guru.  During Shri Mahaprabhu Vallabhacharya’s seven day reading of the Shrimad Bhagavatam, many followers of the Mayavada arrived there and impressed with his teaching became his followers. ",
           "image": "shrirang_baithkaji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -770,7 +808,7 @@
           "title": "",
           "description": " Here Shri Mahaprabhu Vallabhacharya explained to Krishnadas Meghan that Shri Ram crossed by bridge over the sea to Shri Lanka t rescue Shri Sita from the demon Ravana. Here Lord Rameshvaram come to visit Shri Mahaprabhuji Here by the dust of Shri Mahaprabhu Vallabhacharya’s lotus feet, many souls abecame qualified to make the Llord’s worship. ",
           "image": "sethbandh_baithkaji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -808,7 +846,7 @@
           "title": "",
           "description": " Shri Mahaprabhu Vallabhacharya stayed here under a tree by a large rock which had the impressions of an elephant’s footprint. Damala requested the guru, “This scenic place is full of souls who are ignorant by nature. If you speak the Bhagavata here, all these souls will be uplifted. Krishnadas Meghan then Said, “The only problem here is that there is no water.” ",
           "image": "loahgadh_baithkaji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -941,7 +979,7 @@
           "title": "",
           "description": "Shri Mahaprabhu Vallabhacharya and his disciples made camp in a jungle where there was no water. The guru told them about a hidden lake under a rock, which was later discovered and named Vallabh lake. Mayavadians came to investigate and were amazed by the discovery. They prayed to become disciples and everyone experienced divine joy. Shri Mahaprabhuji then continued his journey with some disciples, while others returned home.",
           "image": "totadriparvat_baithkji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -960,7 +998,7 @@
           "title": "",
           "description": "Shri Mahaprabhu Vallabhacharya camped in a dangerous jungle, where Lord Varadasen warned him of the danger and prophesied that his descendants would bless divine souls in the future. The guru then conducted a seven-day reading of the Bhagavata and enlightened numerous people before moving on.",
           "image": "darbasenji_baithkji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -1397,7 +1435,7 @@
           "title": "",
           "description": " By the Kurushetra lake, Shri Mahaprabhu Vallabhacharya made his seat and told Krishnadas Meghan that, “It was here that the great Mahabharat war took place and it is also the place where Lord Krishna taught Arjuna the Bhagavat Gita.” ",
           "image": "kurukshetra_baithkji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -1416,7 +1454,7 @@
           "title": "",
           "description": "",
           "image": "haridwar_baithkji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
@@ -1473,7 +1511,7 @@
           "title": "",
           "description": "Shri Mahaprabhu Vallabhacharya visited Veda Vyasa in his cave and explained the Bhramar Gita for three days and nights, receiving praise from Veda Vyasa. Upon returning and finding Krishnadas Meghan standing where he left him, Shri Mahaprabhu granted him a boon, removing his sins of the tongue and establishing the teachings of the path of Grace firmly in his heart. However, he did not grant his request to accept his former guru. Shri Mahaprabhu then brought his disciples back into consciousness and left for Himachal after performing a saptah.",
           "image": "vyasashram_baithkji.jpg",
-          "gupt": false
+          "gupt": true
         },
         "geometry": {
           "type": "Point",
