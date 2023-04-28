@@ -1487,8 +1487,8 @@
         "type": "Feature",
         "properties": {
           "name": "Kedarnath",
-          "lat": 30.7352821,
-          "long": 79.0654064,
+          "lat": 30.922953,
+          "long": 78.954575,
           "title": "",
           "description": "By the kedarnath lake in the Himilayas Shri Mahaprabhu Vallabhacharya made his seat and began the “saptah.” Lord Kedarnath disguised as a yogi would daily come to listen and finally Krishnadas Meghan questioned the guru who he was. Shri Mahaprabhuji smiled and revealed his identity. After the discourese was over, a divine aroma emerged from Shri Mahaprabhu Vallabhacharya’s feet and thousands of beings who merely smelled it became liberated. From here Shri Mahaprabhuji proceeded to Vyasashram. ",
           "image": "kedarnath_baithkji.jpg",
@@ -1497,8 +1497,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            79.0654064,
-            30.7352821
+            78.954575,
+            30.922953
           ]
         }
       },
@@ -1506,8 +1506,8 @@
         "type": "Feature",
         "properties": {
           "name": "Vyas Ashram",
-          "lat": 30.7352821,
-          "long": 79.0654064,
+          "lat": 30.7727818,
+          "long": 79.4955605,
           "title": "",
           "description": "Shri Mahaprabhu Vallabhacharya visited Veda Vyasa in his cave and explained the Bhramar Gita for three days and nights, receiving praise from Veda Vyasa. Upon returning and finding Krishnadas Meghan standing where he left him, Shri Mahaprabhu granted him a boon, removing his sins of the tongue and establishing the teachings of the path of Grace firmly in his heart. However, he did not grant his request to accept his former guru. Shri Mahaprabhu then brought his disciples back into consciousness and left for Himachal after performing a saptah.",
           "image": "vyasashram_baithkji.jpg",
@@ -1516,8 +1516,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            79.0654064,
-            30.7352821
+            79.4955605,
+            30.7727818
           ]
         }
       },
